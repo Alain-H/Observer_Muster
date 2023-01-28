@@ -1,0 +1,15 @@
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Observer_Muster\Observer_Muster\bin\Debug\net6.0\Observer_Muster.exe
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Observer_Muster\Observer_Muster\bin\Debug\net6.0\Observer_Muster.deps.json
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Observer_Muster\Observer_Muster\bin\Debug\net6.0\Observer_Muster.runtimeconfig.json
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Observer_Muster\Observer_Muster\bin\Debug\net6.0\Observer_Muster.dll
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Observer_Muster\Observer_Muster\bin\Debug\net6.0\ref\Observer_Muster.dll
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Observer_Muster\Observer_Muster\bin\Debug\net6.0\Observer_Muster.pdb
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Observer_Muster\Observer_Muster\obj\Debug\net6.0\Observer_Muster.csproj.AssemblyReference.cache
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Observer_Muster\Observer_Muster\obj\Debug\net6.0\Observer_Muster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Observer_Muster\Observer_Muster\obj\Debug\net6.0\Observer_Muster.AssemblyInfoInputs.cache
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Observer_Muster\Observer_Muster\obj\Debug\net6.0\Observer_Muster.AssemblyInfo.cs
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Observer_Muster\Observer_Muster\obj\Debug\net6.0\Observer_Muster.csproj.CoreCompileInputs.cache
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Observer_Muster\Observer_Muster\obj\Debug\net6.0\Observer_Muster.dll
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Observer_Muster\Observer_Muster\obj\Debug\net6.0\ref\Observer_Muster.dll
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Observer_Muster\Observer_Muster\obj\Debug\net6.0\Observer_Muster.pdb
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Observer_Muster\Observer_Muster\obj\Debug\net6.0\Observer_Muster.genruntimeconfig.cache
